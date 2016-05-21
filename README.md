@@ -14,7 +14,7 @@ etc:
         ...
 
 
-        # How to use:
+# How to use:
 
         $ which java
 
